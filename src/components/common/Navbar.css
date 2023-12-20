@@ -1,0 +1,31 @@
+.navbar-container {
+  height: 70px;
+  background-color: var(--dark);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 10%;
+}
+
+.navbar-logo {
+  height: 32px;
+}
+
+.menu-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  font-size: 19px;
+  color: var(--light);
+}
+
+.list {
+    color: var(--light);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  
+}

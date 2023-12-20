@@ -1,0 +1,37 @@
+.home-container {
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 10%;
+}
+
+.left {
+  height: 70vh;
+  font-size: 40px;
+  color: var(--light);
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  flex-direction: column;
+}
+
+.left> div{
+    margin: 3px 0;
+}
+
+.up-left > p{
+    margin: 10px 0;
+}
+
+.right {
+  height: 70vh;
+}
+
+.right-image {
+  height: 90%;
+}
+
+.text-violet {
+  color: var(--violet);
+}
