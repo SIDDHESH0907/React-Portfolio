@@ -9,7 +9,7 @@
 .left {
   height: 70vh;
   font-size: 40px;
-  color: var(--light);
+  color: var(--white);
   display: flex;
   /* align-items: center; */
   justify-content: center;

@@ -1,6 +1,6 @@
 .navbar-container {
   height: 70px;
-  background-color: var(--dark);
+  background-color: var(--black);
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -17,11 +17,11 @@
   justify-content: center;
   gap: 50px;
   font-size: 19px;
-  color: var(--light);
+  color: var(--white);
 }
 
 .list {
-    color: var(--light);
+    color: var(--white);
   text-decoration: none;
   display: flex;
   align-items: center;

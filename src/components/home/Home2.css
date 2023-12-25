@@ -1,0 +1,31 @@
+.home2-left {
+  color: var(--white);
+  width: 70%;
+}
+
+.home2-right {
+  color: var(--white);
+  width: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.left-title > h1 {
+  text-align: center;
+  margin: 50px;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.left-para > p {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.home2-main {
+  display: flex;
+  align-items: center;
+  padding: 0 10%;
+  height: 80vh;
+}

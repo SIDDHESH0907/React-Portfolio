@@ -1,6 +1,7 @@
 import React from "react";
 import "./Home.css";
 import Home2 from "./Home2";
+import Connect from "./Connect";
 
 function Home() {
   return (
@@ -22,6 +23,7 @@ function Home() {
         </div>
       </div>
       <Home2/>
+      <Connect/>
     </>
   );
 }
