@@ -1,5 +1,5 @@
 .home-container {
-  height: 80vh;
+  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -11,17 +11,16 @@
   font-size: 40px;
   color: var(--white);
   display: flex;
-  /* align-items: center; */
   justify-content: center;
   flex-direction: column;
 }
 
-.left> div{
-    margin: 3px 0;
+.left > div {
+  margin: 3px 0;
 }
 
-.up-left > p{
-    margin: 10px 0;
+.up-left > p {
+  margin: 10px 0;
 }
 
 .right {

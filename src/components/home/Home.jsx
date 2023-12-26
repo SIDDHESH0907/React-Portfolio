@@ -22,8 +22,8 @@ function Home() {
           <img className="right-image" src="/assets/home-main.svg" alt="" />
         </div>
       </div>
-      <Home2/>
-      <Connect/>
+      <Home2 />
+      <Connect />
     </>
   );
 }

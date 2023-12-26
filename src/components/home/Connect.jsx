@@ -8,7 +8,6 @@ function Connect() {
   return (
     <>
     <div className="connect-main">
-
       <div className="connect-title">FIND ME ON</div>
       <div className="connect-line">Feel free to <span className="text-violet">connect</span> with me</div>
       <div className="connect-icons">
