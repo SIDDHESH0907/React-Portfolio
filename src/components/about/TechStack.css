@@ -1,0 +1,38 @@
+.techstack-main {
+  color: var(--white);
+  padding: 0 10%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 80vh;
+}
+
+.techstack-title {
+  font-size: 40px;
+  font-weight: 500;
+  margin: 30px;
+}
+
+.techstack-icons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+
+  height: 100px;
+  gap: 30px;
+}
+
+.techstack-icon {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  padding: 40px 80px;
+  border: 1px solid var(--violet);
+  font-size: 50px;
+  border-radius: 6px;
+  box-shadow: 4px 5px 5px rgb(199, 112, 240, 0.2);
+  transition: all 0.3s ease-in-out;
+}
+
+.techstack-icon:hover {
+  transform: scale(1.1);
+}

@@ -1,8 +1,13 @@
 import React from 'react'
+import AboutCard from './AboutCard'
+import TechStack from './TechStack'
 
 function About() {
   return (
-    <div>About</div>
+    <>
+    <AboutCard/>
+    <TechStack/>
+    </>
   )
 }
 
